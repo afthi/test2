@@ -1,0 +1,15 @@
+{
+	"colored_images": -1, 
+	"embedding_number": 4, 
+	"label_number": 4, 	
+	"zoom_min": 32, 
+	"zoom_mid": 64, 
+	"zoom_max": 256, 
+	"hoover_size": 256, 
+	"sprite_number": 88, 
+	"sprite_side_x": 8, 
+	"sprite_side_y": 8, 
+	"sprite_image_height": 256,
+	"sprite_image_width": 256, 
+	"sprite_actual_size": 2048
+}
